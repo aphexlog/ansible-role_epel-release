@@ -2,8 +2,9 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
-  description: EPEL repository for RHEL/CentOS.
+  role_name: epel-release
+  author: Aaron W. West
+  description: Ansible role that installs the EPEL release for RHEL/CentOS.
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.1
